@@ -11,3 +11,13 @@ Subnet Mask 255.255.255.0
 LX-ETC Ion XE 20 = 192.168.100.30
 AX-SoundcraftExpressionSi3 = 192.168.100.201
 Blackmagic ATEM - 192.168.100.101
+
+WIFI Networks in Theatre
+
+
+NPCC (Fast, general , Secure internet access)
+NPCC-guest (slow, for public use)
+ShawOpen
+SHawPasspoint
+#telus
+FSJPLwifi
