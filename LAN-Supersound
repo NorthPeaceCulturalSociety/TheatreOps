@@ -1,6 +1,11 @@
+SSID:supersound
+SSID:supersound-5ghz
+
+
+
 Wifi is powered by a dedicated wireless router in the control room. 
-AP located in booth
 No AP located on stage 
+
 The ISP is Shaw 300mbps down, 20mbps Up 
 *as tested, Speedtest.net
 
@@ -13,10 +18,10 @@ AX-SoundcraftExpressionSi3 = 192.168.100.201
 Blackmagic ATEM - 192.168.100.101
 
 WIFI Networks in Theatre
-
-
 NPCC (Fast, general , Secure internet access)
 NPCC-guest (slow, for public use)
+
+ ### Additional Networks
 ShawOpen
 SHawPasspoint
 #telus
