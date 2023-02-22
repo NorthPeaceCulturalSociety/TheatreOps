@@ -5,13 +5,13 @@ SSID:supersound-5ghz
 Wifi is powered by a dedicated wireless router in the control room. 
 No AP located on stage 
 
-The ISP is Shaw 300mbps down, 20mbps Up 
+The ISP is Shaw, reliable 40mbps up/down
 *as tested, Speedtest.net
 
-
 Router IP Address is 192.168.100.1
-Default Gateway 192.168.1.254
+Default Gateway 192.168.1.254 / http://192.168.1.254/#connection = Meraki Security Gateway, Run Speed test from, etc 
 Subnet Mask 255.255.255.0
+
 LX-ETC Ion XE 20 = 192.168.100.30
 AX-SoundcraftExpressionSi3 = 192.168.100.201
 Blackmagic ATEM - 192.168.100.101
